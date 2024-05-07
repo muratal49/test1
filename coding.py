@@ -2,6 +2,7 @@ install pandas as pd
 install numpy as np
 
 for i in range(10):
-  print('the loop is at',i)
+  print('printing',i)
+  print('test line 2')
   
   
